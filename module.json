@@ -53,8 +53,8 @@
 	"styles" : ["combatready.css"],
 	"packs": [],
 	"url" : "https://github.com/smilligan93/combatready",
-	"download" : "https://github.com/smilligan93/combatready/archive/master.zip",
-	"manifest" : "https://raw.githubusercontent.com/smilligan93/combatready/master/module.json",
+	"download" : "https://drive.google.com/file/d/1cZ1GkF7r1NhrICDn-slcjIbRw-QF3vXr/view?usp=sharing",
+	"manifest" : "https://raw.githubusercontent.com/liquidsn8ke/CR-sn8ke/master/module.json",
 	"minimumCoreVersion": "0.7.1",
   	"compatibleCoreVersion": "0.7.5"
 }
